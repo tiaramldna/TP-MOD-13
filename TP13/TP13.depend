@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1671376759 source:/Users/mutiaramaulidina/Documents/TP13/graph.cpp
+	"graph.h"
+
+1671376864 /Users/mutiaramaulidina/Documents/TP13/graph.h
+	<iostream>
+
+1671376797 source:/Users/mutiaramaulidina/Documents/TP13/main.cpp
+	"graph.h"
+	<iostream>
+
